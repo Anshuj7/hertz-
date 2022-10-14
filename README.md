@@ -13,3 +13,6 @@ Hertz Autos is a premium ev rental company that rents popular and one of the bes
 * HTML5
 * CSS3
 * JavaScript
+
+### Visit the site here
+https://hertzautos.netlify.app/
